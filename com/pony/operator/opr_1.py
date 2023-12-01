@@ -23,3 +23,5 @@ if  a == b :
 else:
     print("1 - a 不等于 b")
 
+print(1.0/2)
+print(1!=2)

@@ -1,0 +1,9 @@
+#github.com账号的
+Host github.com
+HostName github.com
+IdentityFile ~/.ssh/id_rsa_github
+#coding.jd.com账号的
+Host coding.jd.com
+HostName coding.jd.com
+IdentityFile ~/.ssh/id_rsa
+
